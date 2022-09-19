@@ -1,6 +1,7 @@
 # Exercícios de JavaScript
 3 pequenos exércicios  com as funções de calculadora , relógio e um validador de formulário
 
+Neste caso os exercícios estão crus , apenas html css e js puro 
 
 
 # Calculadora   
